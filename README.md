@@ -10,7 +10,7 @@ This is a static web page made with HTML, CSS animations and JavaScript, it is n
 * [Portfolio](https://iscodelcollado.com)
 
 ## Watch the live example
-- [link]
+- [[link](https://pakolalo.github.io/Lego-Super-Heroes/)]
 
 ## Installation
 
